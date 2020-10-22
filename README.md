@@ -1,12 +1,13 @@
-# Lottie-com-fluuter
-exemplo de utilização da biblioteca lottie usando no flutter, Lottie bibliotecas de animação em flutter , onde você pode utilizar anmações feitas no afcter efects na web , no flutter ou react native , android ou ios, xamarin, windows , vue js, react etc..
-acesse o site deles : https://lottiefiles.com/ 
+#clone do youtube
+
+um appclone do youtube no qual possivel ver videos , pesquisar por videos através de uma api do youtube.
+ 
 
 
 
 
 
-![Demo](lottie_example.gif)
+![Demo](demo.gif)
 
 
 
@@ -14,11 +15,14 @@ acesse o site deles : https://lottiefiles.com/
 
 1-passo é instalar a dependencia do projeto colocando no arquivo pubspec.yaml file o a a depedência em dependencies exemplo </br>
 dependencies:</br>
-lottie: ^0.4.1</br>
+lottie: ^0.6.0</br>
+http: ^0.12.2</br>
+flutter_youtube: ^1.1.6 </br>
+
+
 </tr>
 2.depois e so dar um flutter pub get para atualizar </br>
 </tr>
-3. e main.dart so colocar o caminho import 'package:lottie/lottie.dart'; como no gif acima caso queira mais detalhes acesse https://pub.dev/packages/lottie </br>
 
 
 
